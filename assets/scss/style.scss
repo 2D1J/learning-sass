@@ -1,0 +1,16 @@
+//first comment on Sass
+
+$primary-color: blue;
+
+body{
+    background-color: $primary-color;
+    p{
+        font-size: 500px;
+    }
+}
+
+p{
+    font: {
+        size: 300px;
+    }
+}
